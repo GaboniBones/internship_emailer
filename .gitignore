@@ -3,3 +3,4 @@ __pycache__/
 outreach.log
 contacted.json
 .env
+*.log
